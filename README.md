@@ -10,4 +10,4 @@ Currently, two official plugins are available:
 # Live URL
 
 Check out the live demo 
-- [here] (hhtps://nex-quote.netlify.app)
+- [here] (https://nex-quote.netlify.app)
